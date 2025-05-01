@@ -9,7 +9,7 @@
 
 -------------------------------------------------------------------------
 
- [![Roberto Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=robsings&show_icons=true)  
+ [![Roberto Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=robsings&show_icons=true&theme=tokyonight&border_radius=50)  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsings&layout=compact&theme=tokyonight&border_radius=50)
 
