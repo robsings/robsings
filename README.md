@@ -17,8 +17,8 @@
 -------------------------------------------------------------------------
 
 **📝 Confira os artigos recentes que venho escrevendo no Medium:**
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rob.sings/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rob.sings/0" alt="Recent Article 0"><br><br> 
+<div>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rob.sings/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rob.sings/0" alt="Recent Article 0" style="padding=7px;color=#808080;"><br><br> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rob.sings/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rob.sings/1" alt="Recent Article 1"><br><br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rob.sings/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rob.sings/2" alt="Recent Article 2"><br><br> 
-
+<div>
