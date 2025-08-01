@@ -14,7 +14,7 @@
 
 -------------------------------------------------------------------------
 
- ![Roberto Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=robsings&show_icons=true&theme=tokyonight&border_radius=50&rank_icon=github)  
+![Roberto Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=robsings&show_icons=true&theme=tokyonight&border_radius=50&rank_icon=github)  
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsings&layout=compact&theme=tokyonight&border_radius=50)
 
@@ -24,5 +24,4 @@
 <div align="center">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@robsings_qadev/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@robsings_qadev/0" alt="Recent Article 0"><br><br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@robsings_qadev/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@robsings_qadev/1" alt="Recent Article 1"><br><br>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@robsings_qadev/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@robsings_qadev/2" alt="Recent Article 2"><br><br> 
 </div>
