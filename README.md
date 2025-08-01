@@ -6,7 +6,7 @@
 - 📚 Tenho conhecimentos e habilidades em Python, C, Java, automação e desenvolvimento web (JS, HTML, CSS). Além disso, possuo algum conhecimento em Shellscript, Powershell e Batchscript.
 - 📌 Como QA, estou na área desde 2021, estou certificado no ISTQB (CTFL - Certified Tester Foundation Level) e buscando atualmente o CTAL-TAE.
 
-![CTFL](CTFL_logo1.png) ![CTAL-TAE](a-ctal-tae-removebg-preview.png)
+![CTFL](CTFL_logo1.png) ![CTAL-TAE](a-ctal-tae-removebg-preview(1).png)
 
 -------------------------------------------------------------------------
 
