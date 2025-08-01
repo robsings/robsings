@@ -7,8 +7,8 @@
 - 📌 Como QA, estou na área desde 2021, estou certificado no ISTQB (CTFL - Certified Tester Foundation Level) e buscando atualmente o CTAL-TAE.
 
 <p align="center">
-  <img src="CTFL_logo1.png" alt="CTFL" width="90">
-  <img src="a-ctal-tae.png" alt="CTAL-TAE" width="90">
+  <img src="CTFL_logo1.png" alt="CTFL" width="130">
+  <img src="a-ctal-tae.png" alt="CTAL-TAE" width="130">
 </p>
 
 
