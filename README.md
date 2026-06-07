@@ -3,6 +3,7 @@
 
 - 👨‍💻 Trabalho como QA para a Smiles/GOL e, nos meus horários livres, estudo ou crio projetos por hobby.
 - 📚 Tenho conhecimentos e habilidades em Python, C, Java, automação e desenvolvimento web (JS, HTML, CSS). Além disso, possuo algum conhecimento em Shellscript, Powershell e Batchscript.
+- 🎓 Aqui você consegue conferir todos os meus certificados na [Alura](https://cursos.alura.com.br/user/saintsrobert25/fullCertificate/875a2df715de1b43c5e14599c52c5d97) 
 - 📌 Como QA, estou na área desde 2021, estou certificado no ISTQB: CTFL e CTAL-TAE.
 
 <p align="center">
